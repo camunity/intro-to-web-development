@@ -34,7 +34,7 @@ Tasks and assignments are intended to align with the learning outcomes specified
 
 ### Class attendance and participation policy
 
-Attendance is not a graded component of this class, though students are encouraged to attend all lectures to fully benefit from the delivered lectures and peer discussion. 
+Attendance is a graded component of this class, students are encouraged to attend all lectures to fully benefit from the delivered lectures and peer discussion. 
 
 ### Course readings
 
