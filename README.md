@@ -10,19 +10,17 @@ Spring, 2020
 
 ## Rationalle
 
-Some of the most exciting technological developments are occuring via web-based frameworks across the full stack. In this course we will discuss frontend and backend programming in Javascript and learn the essentials of modern web development. 
-
-Any student of a technological field-and especially students of computer science/engineering-would be well-served by developing an understanding of the web and a proficiency in creation of the applications that it enables.
+Some of the most exciting technological developments are occuring via web-based frameworks across the full stack. In this course we will discuss frontend and backend programming in Javascript and learn the essentials of modern web development. We will build dynamic web sites utilizing current industry-preferred frameworks and modules including React.JS and Ruby on Rails.
 
 ## Course Aims and Outcomes 
 ### Aims
-As a result of participating in this course, students will be able to explain the various elements of the web ecosystem, demonstrate proficiency in the fundamental languages of web programming, and create web applications using contemporary tooling in preparation for a career involving web development. 
+As a result of participating in this course, students will be able to explain the fundamental architecture of the web ecosystem, demonstrate proficiency in the fundamental languages of web programming, and create web applications using modern frameworks in preparation for a healthy career in web development. 
 
 ### Specific Learning Outcomes
-By the end of this course, students will be well-versed in the fundamentals of web application development. Emphasis is placed on developing a foundation in plain HTML, CSS, and JavaScript, including a knowledge of their historical revisions and browser adoption of their latest versions. Building on this foundation, client-side JavaScript frameworks are introduced; students will learn the concepts, syntax, and benefits of contemporary front-end JavaScript frameworks (e.g. React.js). Students should be able to develop aesthetically pleasing single place applications (SPAs) by this juncture in the course. The course will then introduce back-end web application constructs such as databases and application servers. By the completion of the course, students will be able to develop a “full stack” web application and discuss the benefits of various architectures, design patterns, and elements of production-readyness. Specific concepts and technologies are highlighted in the course schedule below.
+By the end of this course, students will be well-versed in the fundamentals of modern web development in JavaScript. They will be introduced to HTML and CSS through in-class project based learning utilizing resources curated by the World Wide Web organization. Building on this foundation, client-side JavaScript frameworks are introduced; students will learn the concepts, syntax, and benefits of contemporary front-end JavaScript frameworks (e.g. React.js and Redux). Students will be able to develop interactive frontend applications by the midterm of the course. The course will then introduce back-end web application concepts such as databases, application servers and cloud based hosting. By the completion of the course, students will be able to develop a “full stack” web application and discuss the benefits of various architectures, design patterns, and elements of production-readyness. Specific concepts and technologies are highlighted in the course schedule below.
 
 ## Format and Procedures
-This course meets twice a week without an additional lab component. This course is intended to reflect industry norms as much as possible; to that end, project delivery and collaboration are emphasized as well as attendance and summative assessment.
+This course meets twice a week without an additional lab component. This course is intended to reflect industry norms as much as possible; to that end, project delivery and collaboration are emphasized over homework and written assessments.
 
 ## Assumptions
 This course has no prerequisite courses; however, students are expected to be proficient in general programming principles and able to code in at least one language. Such experience will ensure that students are able to expediently learn new programming languages as they are introduced in this course.
@@ -34,7 +32,7 @@ Tasks and assignments are intended to align with the learning outcomes specified
 
 ### Class attendance and participation policy
 
-Attendance is a graded component of this class, students are encouraged to attend all lectures to fully benefit from the delivered lectures and peer discussion. 
+Attendance is a graded component of this class, students are encouraged to attend all lectures to fully benefit from the delivered material and peer discussion. 
 
 ### Course readings
 
@@ -49,34 +47,39 @@ Student grades in this course will be assigned as follows:
     - Reinforce readings/lecture content
     - Practice writing code
     - Practice using GitHub (delivery/submission vehicle)
+    
 - **Project 1 (10%)**
-  - HTML + CSS (static)
-  - Teams of 2
+  - React (Portfolio Site)
   - Intents:
-    - Demonstrate ability to develop responsive static website
+    - Demonstrate ability to develop React website
     - Add to students' public GitHub portfolios
-    - Practice code collaboration
-- **Midterm Project (20%)**
-  - Closed-everything
-  - Intents:
-    - Demonstrate knowledge of subject matter
-    - Emulate live-coding component of real-world interviews
+    
 - **Project 2 (10%)**
-  - HTML + CSS + JavaScript (front-end)
+  - React & Simple Redux (State Managed Components)
   - Intents:
-    - Demonstrate ability to develop a dynamic SPA
-    - Add to students' GitHub portfolios
+    - Demonstrate intermediate knowledge of React
+    - Demonstrate modern software architecture using Redux
+    - Add to students' portfolio of work
     - Practice code collaboration
+    
+- **Midterm Project (20%)**
+  - React & Redux (front-end application)
+  - Intents:
+    - Demonstrate ability to develop a dynamic React application
+    - Assess student's understanding of project scoping and management
+    - Practice code collaboration and documentation
+    
 - **Project 3 (20%)**
   - HTML + CSS + JavaScript + API (back-end)
   - Intents:
     - Demonstrate ability to develop a full-stack web application
     - Add to students' GitHub portfolios
     - Practice code collaboration
+    
 -	**Final Project (20%)**
   - Intents:
     - Demonstrate knowledge of subject matter
-    - Emulate live-coding component of real-world interviews
+    - Practice pitching and presentation aspect of live interviews
 
 ## Tentative Course Schedule
 
@@ -87,18 +90,18 @@ Lecture | Date | Content | Readings | Assigned | Due
 0	| Week 1 | Intro | -- | -- | --
 1 | Week 2 | Fundamentals of JavaScript Pt. 1
 2 | Week 3 | Fundamentals of JavaScript Pt. 2
-3 | Week 4 | Intro to React.JS Pt. 1
-4 | Week 5 | Intro to React.JS Pt. 2
-5 | Week 6 | Advanced React.JS
-6 | Week 7 | Midterm Project
-7 | Week 8 | Midterm Project
+3 | Week 4 | Intro to React.JS Pt. 1 | -- | Project 1 Out | --
+4 | Week 5 | Intro to React.JS Pt. 2 | -- | Project 2 Out | Project 1 Due
+5 | Week 6 | Advanced React.JS | -- | -- | Project 2 Due
+6 | Week 7 | Midterm Project | -- | Midterm Out | --
+7 | Week 8 | Midterm Project | -- | -- | Midterm Due
 8 | Week 9 | Intro to Express/Node.JS
-9 | Week 10| Deploying and Hosting
-10 | Week 11 | Databases 
-11 | Week 12 | Cloud Technologies
+9 | Week 10| Deploying and Hosting | -- | Project 3 Out | -- 
+10 | Week 11 | Databases | -- | -- | Project 3 Due | --
+11 | Week 12 | Cloud Technologies | -- | Final Project Out | --
 12 | Week 13 | Final Project
 13 | Week 14 | Final Project
-14 | Week 15 | Final Project
+14 | Week 15 | Final Project | -- | -- | Final Project Due
 15 | Week 16 | Final Project
 -- | TBA | -- | -- | -- | Final Showcase
 
