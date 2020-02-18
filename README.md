@@ -70,7 +70,7 @@ Student grades in this course will be assigned as follows:
     - Practice code collaboration and documentation
     
 - **Project 3 (20%)**
-  - HTML + CSS + JavaScript + API (back-end)
+  - React/Redux & Rails + API (back-end)
   - Intents:
     - Demonstrate ability to develop a full-stack web application
     - Add to students' GitHub portfolios
