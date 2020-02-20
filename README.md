@@ -48,13 +48,13 @@ Student grades in this course will be assigned as follows:
     - Practice writing code
     - Practice using GitHub (delivery/submission vehicle)
     
-- **Project 1 (10%)**
+- **Homework 1 (10%)**
   - React (Portfolio Site)
   - Intents:
     - Demonstrate ability to develop React website
     - Add to students' public GitHub portfolios
     
-- **Project 2 (10%)**
+- **Homework 2 (10%)**
   - React & Simple Redux (State Managed Components)
   - Intents:
     - Demonstrate intermediate knowledge of React
@@ -69,7 +69,7 @@ Student grades in this course will be assigned as follows:
     - Assess student's understanding of project scoping and management
     - Practice code collaboration and documentation
     
-- **Project 3 (20%)**
+- **Homework 3 (20%)**
   - React/Redux & Rails + API (back-end)
   - Intents:
     - Demonstrate ability to develop a full-stack web application
@@ -90,19 +90,19 @@ Lecture | Date | Content | Readings | Assigned | Due
 0	| Week 1 | Intro | -- | -- | --
 1 | Week 2 | Fundamentals of JavaScript Pt. 1
 2 | Week 3 | Fundamentals of JavaScript Pt. 2
-3 | Week 4 | Intro to React.JS Pt. 1 | -- | Project 1 Out | --
-4 | Week 5 | Intro to React.JS Pt. 2 | -- | Project 2 Out | Project 1 Due
-5 | Week 6 | Advanced React.JS | -- | -- | Project 2 Due
+3 | Week 4 | Intro to React.JS Pt. 1 | -- | HW 1 Out | --
+4 | Week 5 | Intro to React.JS Pt. 2 | -- | HW 2 Out | HW 1 Due
+5 | Week 6 | Advanced React.JS | -- | -- | HW 2 Due
 6 | Week 7 | Midterm Project | -- | Midterm Out | --
 7 | Week 8 | Midterm Project | -- | -- | Midterm Due
 8 | Week 9 | Intro to Express/Node.JS
-9 | Week 10| Deploying and Hosting | -- | Project 3 Out | -- 
-10 | Week 11 | Databases | -- | -- | Project 3 Due | --
+9 | Week 10| Deploying and Hosting | -- | HW 3 Out | -- 
+10 | Week 11 | Databases | -- | -- | HW 3 Due | --
 11 | Week 12 | Cloud Technologies | -- | Final Project Out | --
 12 | Week 13 | Final Project
 13 | Week 14 | Final Project
-14 | Week 15 | Final Project | -- | -- | Final Project Due
-15 | Week 16 | Final Project
+14 | Week 15 | Final Project 
+15 | Week 16 | Final Project | -- | -- | Final Project Due
 -- | TBA | -- | -- | -- | Final Showcase
 
 ## Academic Integrity
