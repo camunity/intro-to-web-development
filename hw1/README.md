@@ -23,10 +23,11 @@ By the end of this homework, you will be well-versed in the fundamentals of star
 0) Open the terminal and navigate to a safe file destination (ex: run command `cd ~/Desktop`)
 1) Open a browser and download the latest version of [node]("https://nodejs.org/en/download/")
 2) In the terminal run the command `npm --version` to ensure the package was installed correctly
-3) In the terminal run the create-react-app command with this project name: yourgithubname.github.io 
-    - for example in my terminal I'd run: `create-react-app camunity.github.io`
-4) cd into your new folder after it's finished installing
-5) npm start
+3) Make sure you follow the create-react-app installation [instructions](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
+4) In the terminal run the create-react-app command with this project name: yourgithubname.github.io 
+    - for example in my terminal I'd run: `npx create-react-app camunity.github.io`
+5) cd into your new folder after it's finished installing
+6) npm start
 
 ## Assignment Pt. 1
 Now you should have a functional React app built and running on your localhost in the browser. This app is using a local server to host the application code allowing you to interact with React in a unique way. Anytime you make changes to the React code, you'll see them live reload in your browser. This is called "hot-reloading" one of the best features of working in React. 
