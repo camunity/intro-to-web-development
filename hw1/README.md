@@ -60,6 +60,7 @@ Git is a version control tool we use to take snapshots of changing code. It work
 Now that we've created a remote repository and because create-react-app initialized a local repository for us, we can connect the dots!
 
 Commands:
+
 A) In the terminal in your project directory run the command: `git add *` this adds all of the modified files you recently worked on to be tracked by git. 
 
 B) run the command: `git commit -m "initial commit"` this creates a commit of the tracked code with the message "initial commit" and saves it to your local repository stored in your project folder. 
