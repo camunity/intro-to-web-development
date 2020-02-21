@@ -50,9 +50,10 @@ Since we're importing an existing repository and because create-react-app alread
 **If you already have a repository with this name on Github, you can name this repo whatever you want**
 
 ### Step 3: Connecting to your remote repository
-At this point you should see a screen like [this](https://curriculum-content.s3.amazonaws.com/web-development/enough-git-for-learn-co/github_quick_setup.png)
+At this point you should see a screen like this:
+![GitHub Commit Steps](https://curriculum-content.s3.amazonaws.com/web-development/enough-git-for-learn-co/github_quick_setup.png)
 
-If you don't see this, delete this repository and make sure you followed the last step correctly and didn't click any of the extra buttons or features.
+If you don't see a screen like this, delete this repository and make sure you followed the last step correctly and didn't click any of the extra buttons or features.
 
 Git is a version control tool we use to take snapshots of changing code. It works by creating a local repository and allowing us to connect to remote cloud-hosted repositories on tools like Github or Bitbucket.
 
@@ -64,7 +65,7 @@ A) In the terminal in your project directory run the command: `git add *` this a
 B) run the command: `git commit -m "initial commit"` this creates a commit of the tracked code with the message "initial commit" and saves it to your local repository stored in your project folder. 
 
 C) Run the two commands under the section on Github that says "...or push an existing repository from the command line"
-  - The first one "git remote add origin" connects your project to the remote repository, so you can push and pull code to/from Github.
+  - The first one "git remote add origin ..." connects your project to the remote repository, so you can push and pull code to/from Github, 
   - The second one "git push -u origin master" takes the local commit we made in step B) and pushes it to Github
 
 D) Refresh your Github page and you should see your create-react-app files! 
