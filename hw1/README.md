@@ -1,8 +1,11 @@
 # CMP 464 – HW 1
 
-**Due Date:** 2/25/2020  
+**Due Date:** 2/25/2020
+
 **Submission Type:** Email Link
-**Grading:** Letter Grade 
+
+**Grading:** Letter Grade
+
 **Topics:** Command Line, Git, React, Javascript
 
 ## Rationale
