@@ -90,7 +90,7 @@ Lecture | Date | Content | Readings | Assigned | Due
 0	| Week 1 | Intro | -- | -- | --
 1 | Week 2 | Fundamentals of JavaScript Pt. 1 
 2 | Week 3 | Fundamentals of JavaScript Pt. 2 | -- | [Tic Tac Toe Repo](https://github.com/camunity/ticTacToe)
-3 | Week 4 | Intro to React.JS Pt. 1 | [React](https://reactjs.org) | HW 1 Out | --
+3 | Week 4 | Intro to React.JS Pt. 1 | [React](https://reactjs.org) | [HW1](/hw1/README.md) | --
 4 | Week 5 | Intro to React.JS Pt. 2 | -- | HW 2 Out | HW 1 Due
 5 | Week 6 | Advanced React.JS | -- | -- | HW 2 Due
 6 | Week 7 | Midterm Project | -- | Midterm Out | --
