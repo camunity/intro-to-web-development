@@ -17,7 +17,7 @@ Now that we've had time to learn HTML/CSS and Javascript, we're going to dive in
 This homework is designed to test your ability to start a new React project and use Git for managing project changes.
 
 ### Specific Learning Outcomes
-By the end of this homework, students will be well-versed in the fundamentals of starting React projects using NPM. They will be introduced to the create-react-app command line tool using npm to install the necessary project frameworks to start and launch a React application. Following this, they will be able to upload the project to Github utilizing the command line functions. Following this set-up, students will make commits and pushes to the codebase to simulate normal project development control flows. 
+By the end of this homework, you will be well-versed in the fundamentals of starting React projects using NPM. You will be introduced to the create-react-app command line tool using npm to install the necessary project frameworks to start and launch a React application. Following this, they will be able to upload the project to Github utilizing the command line functions. Following this set-up, students will make commits and pushes to the codebase to simulate normal project development control flows. 
 
 ## Set Up Procedures
 0) Open the terminal and navigate to a safe file destination (ex: run command `cd ~/Desktop`)
@@ -155,7 +155,7 @@ If that all worked congratulations! You built your first React project <3
 
 ## Submissions
 
-To submit this homework, fork this github repo and edit the README by adding to the table below with your name, a link to your finished repo, and the date you submitted by 6pm on Tuesday.
+To submit this homework, fork this github repo and edit the README by adding to the table below with your name, a link to your finished repo, and the date you submitted by 6pm on Tuesday. After you're done make sure you go over the [React Tutorial](https://reactjs.org/tutorial/tutorial.html) before our next class!
 
 
 Name | Repo Link | Date Submitted
