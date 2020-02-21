@@ -84,7 +84,9 @@ Save the file and take a look at the running React code at: `https://localhost:3
 If everything looks right, open up your project directory in the terminal and do the following steps.
 
 A) `git add *` (to add all your recent project changes)
+
 B) `git commit -m "modified App.js to say {insert your name here}"` (to make a new git commit)
+
 C) `git push -u origin master` (to push the local changes to your git remote repository)
 
 If that all worked you can keep moving on!
@@ -100,7 +102,9 @@ Save the file and take a look at the running React code at: `https://localhost:3
 If everything looks right, open up your project directory in the terminal and do the following steps.
 
 A) `git add *` (to add all your recent project changes)
+
 B) `git commit -m "edited App.css to stop image spinning"` (to make a new git commit)
+
 C) `git push -u origin master` (to push the local changes to your git remote repository)
 
 If that all worked you can keep moving on!
@@ -119,7 +123,9 @@ Save the file and take a look at the running React code at: `https://localhost:3
 If everything looks right, open up your project directory in the terminal and do the following steps.
 
 A) `git add *` (to add all your recent project changes)
+
 B) `git commit -m "added my personal image to App.js"` (to make a new git commit)
+
 C) `git push -u origin master` (to push the local changes to your git remote repository)
 
 If that all worked you can keep moving on!
@@ -139,7 +145,9 @@ Save the file and take a look at the running React code at: `https://localhost:3
 If everything looks right, open up your project directory in the terminal and do the following steps.
 
 A) `git add *` (to add all your recent project changes)
+
 B) `git commit -m "final commit, I will become a React pro!"` (to make a new git commit)
+
 C) `git push -u origin master` (to push the local changes to your git remote repository)
 
 If that all worked congratulations! You built your first React project <3 
