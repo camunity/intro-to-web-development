@@ -156,7 +156,7 @@ If that all worked congratulations! You built your first React project <3
 
 ## Submissions
 
-To submit this homework, fork this github repo and edit the README by adding to the table below with your name, a link to your finished repo, and the date you submitted by 6pm on Tuesday. After you're done make sure you go over the [React Tutorial](https://reactjs.org/tutorial/tutorial.html) before our next class!
+To submit this homework, fork this github repo and edit the README by adding to the table below with your name, a link to your finished repo, and the date you submitted by 6pm on Tuesday. Send me a pull request when you're done! After you're finished make sure you go over the [React Tutorial](https://reactjs.org/tutorial/tutorial.html) before our next class!
 
 
 Name | Repo Link | Date Submitted
