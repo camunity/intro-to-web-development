@@ -2,7 +2,7 @@
 
 **Due Date:** 2/25/2020
 
-**Submission Type:** Email Link
+**Submission Type:** Pull Request to Link
 
 **Grading:** Letter Grade
 
