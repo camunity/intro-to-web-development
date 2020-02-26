@@ -117,7 +117,7 @@ The React logo is cool and all but it isn't really our thing, it's Facebook's. I
 
 Make sure you save it in the src folder!
 
-In your App.js file switch the import statement on line 3 to `import logo from './yourname.extension'`swapping extension for whatever your file type is (.png, .jpg, etc.);
+In your App.js file switch the import statement on line 2 to `import logo from './yourname.extension'`swapping extension for whatever your file type is (.png, .jpg, etc.);
 
 
 Save the file and take a look at the running React code at: `https://localhost:3000`
