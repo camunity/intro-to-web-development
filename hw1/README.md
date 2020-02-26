@@ -161,7 +161,9 @@ To submit this homework, fork this github repo and edit the README by adding to 
 
 Name | Repo Link | Date Submitted
 --|--|--
-(example) Cam Flowers | https://www.github.com/camunity/camunity.github.io | 02/20 
+(example) Cam Flowers | https://www.github.com/camunity/camunity.github.io| 02/20 
+James Ramirez | https://github.com/Jramire16/jramire16.github.io | 02/20
+
 
 
 ## If You Get Stuck
