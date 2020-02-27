@@ -1,3 +1,5 @@
+Lillian McClelland | https://github.com/tygerrtygerr/tygerrtygerr.github.io | 2/24
+
 # CMP 464 – HW 1
 
 **Due Date:** 2/25/2020
