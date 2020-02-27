@@ -165,6 +165,7 @@ Kristel Broward | https://github.com/kristel-spike/kristel-spike.github.io | 02/
 Omar Jimenez | https://github.com/Omar-Jimenez3/omar-jimenez3.github.io | 02/24
 Abraham Lara | https://github.com/AbrahamLara/abrahamlara.github.io | 02/24
 Karimu Mohammed |https://github.com/KabdulDev/kabduldev.github.io/   | 02/25
+Jonathan Montoya | https://github.com/JonTrader/jontrader.github.io | 02/25
 Lillian McClelland | https://github.com/tygerrtygerr/tygerrtygerr.github.io | 02/24
 Michael Rivera | https://www.github.com/miker179/miker179.github.io | 02/24
 
