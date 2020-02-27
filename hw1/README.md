@@ -164,6 +164,8 @@ Name | Repo Link | Date Submitted
 Abraham Lara | https://github.com/AbrahamLara/abrahamlara.github.io | 02/24
 Kristel Broward | https://github.com/kristel-spike/kristel-spike.github.io | 02/23
 Lillian McClelland | https://github.com/tygerrtygerr/tygerrtygerr.github.io | 02/24
+Omar Jimenez | https://github.com/Omar-Jimenez3/omar-jimenez3.github.io | 02/24
+
 
 
 ## If You Get Stuck
