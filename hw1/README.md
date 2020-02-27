@@ -175,6 +175,7 @@ Lillian McClelland | https://github.com/tygerrtygerr/tygerrtygerr.github.io | 02
 James Ramirez | https://github.com/Jramire16/jramire16.github.io | 02/25
 Michael Rivera | https://www.github.com/miker179/miker179.github.io | 02/24
 Jeson Rosario | https://www.github.com/jrosario22/jesonrosario.github.io | 02/25
+Aboubakari Soumanou Petoni | https://github.com/AboubakariSoumanouP/aboubakarisoumanoup.github.io | 02/25 
 Nathan Williams | https://www.github.com/nathanok/nathanok.github.io | 02/25
 
 
