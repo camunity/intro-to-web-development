@@ -165,6 +165,7 @@ Kristel Broward | https://github.com/kristel-spike/kristel-spike.github.io | 02/
 Jenny Cho | https://www.github.com/tastystar/tastystar.github.io | 02/25
 Carlos Diaz | https://github.com/carlosmdiaz/carlosmdiaz.github.io | 02/25 
 Chris Estevez | https://github.com/CodingWithCDJE/codingwithcdje.github.io | 02/25
+Ali Guddam | https://github.com/sam34512/sam34512.github.io | 02/25
 Omar Jimenez | https://github.com/Omar-Jimenez3/omar-jimenez3.github.io | 02/24
 Abraham Lara | https://github.com/AbrahamLara/abrahamlara.github.io | 02/24
 Karimu Mohammed |https://github.com/KabdulDev/kabduldev.github.io/   | 02/25
