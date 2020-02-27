@@ -162,6 +162,7 @@ To submit this homework, fork this github repo and edit the README by adding to 
 Name | Repo Link | Date Submitted
 --|--|--
 Kristel Broward | https://github.com/kristel-spike/kristel-spike.github.io | 02/23
+Jenny Cho | https://www.github.com/tastystar/tastystar.github.io | 02/25
 Carlos Diaz | https://github.com/carlosmdiaz/carlosmdiaz.github.io | 02/25 
 Chris Estevez | https://github.com/CodingWithCDJE/codingwithcdje.github.io | 02/25
 Omar Jimenez | https://github.com/Omar-Jimenez3/omar-jimenez3.github.io | 02/24
