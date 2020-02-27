@@ -161,11 +161,12 @@ To submit this homework, fork this github repo and edit the README by adding to 
 
 Name | Repo Link | Date Submitted
 --|--|--
-Abraham Lara | https://github.com/AbrahamLara/abrahamlara.github.io | 02/24
 Kristel Broward | https://github.com/kristel-spike/kristel-spike.github.io | 02/23
+Omar Jimenez | https://github.com/Omar-Jimenez3/omar-jimenez3.github.io | 02/24
+Abraham Lara | https://github.com/AbrahamLara/abrahamlara.github.io | 02/24
+Karimu Mohammed |https://github.com/KabdulDev/kabduldev.github.io/   | 02/25
 Lillian McClelland | https://github.com/tygerrtygerr/tygerrtygerr.github.io | 02/24
 Michael Rivera | https://www.github.com/miker179/miker179.github.io | 02/24
-Omar Jimenez | https://github.com/Omar-Jimenez3/omar-jimenez3.github.io | 02/24
 
 
 
