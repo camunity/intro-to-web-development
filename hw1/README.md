@@ -1,5 +1,3 @@
-Lillian McClelland | https://github.com/tygerrtygerr/tygerrtygerr.github.io | 2/24
-
 # CMP 464 – HW 1
 
 **Due Date:** 2/25/2020
@@ -166,6 +164,7 @@ Name | Repo Link | Date Submitted
 (example) Cam Flowers | https://www.github.com/camunity/camunity.github.io | 02/20 
 --|--|--
 Kristel Broward | https://github.com/kristel-spike/kristel-spike.github.io | 02/23
+Lillian McClelland | https://github.com/tygerrtygerr/tygerrtygerr.github.io |02/24
 
 
 ## If You Get Stuck
