@@ -117,7 +117,7 @@ The React logo is cool and all but it isn't really our thing, it's Facebook's. I
 
 Make sure you save it in the src folder!
 
-In your App.js file switch the import statement on line 3 to `import logo from './yourname.extension'`swapping extension for whatever your file type is (.png, .jpg, etc.);
+In your App.js file switch the import statement on line 2 to `import logo from './yourname.extension'`swapping extension for whatever your file type is (.png, .jpg, etc.);
 
 
 Save the file and take a look at the running React code at: `https://localhost:3000`
@@ -161,8 +161,21 @@ To submit this homework, fork this github repo and edit the README by adding to 
 
 Name | Repo Link | Date Submitted
 --|--|--
-(example) Cam Flowers | https://www.github.com/camunity/camunity.github.io | 02/20 
+Kristel Broward | https://github.com/kristel-spike/kristel-spike.github.io | 02/23
 Jenny Cho | https://www.github.com/tastystar/tastystar.github.io | 02/25
+Carlos Diaz | https://github.com/carlosmdiaz/carlosmdiaz.github.io | 02/25 
+Chris Estevez | https://github.com/CodingWithCDJE/codingwithcdje.github.io | 02/25
+Omar Jimenez | https://github.com/Omar-Jimenez3/omar-jimenez3.github.io | 02/24
+Abraham Lara | https://github.com/AbrahamLara/abrahamlara.github.io | 02/24
+Karimu Mohammed |https://github.com/KabdulDev/kabduldev.github.io/   | 02/25
+David Moran-Silva | https://github.com/DavidMoran-Silva/DavidMoran-Silva.github.io | 02/25/2020
+Jonathan Montoya | https://github.com/JonTrader/jontrader.github.io | 02/25
+Lillian McClelland | https://github.com/tygerrtygerr/tygerrtygerr.github.io | 02/24
+James Ramirez | https://github.com/Jramire16/jramire16.github.io | 02/25
+Michael Rivera | https://www.github.com/miker179/miker179.github.io | 02/24
+Jeson Rosario | https://www.github.com/jrosario22/jesonrosario.github.io | 02/25
+Nathan Williams | https://www.github.com/nathanok/nathanok.github.io | 02/25
+
 
 ## If You Get Stuck
 
