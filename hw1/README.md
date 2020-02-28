@@ -161,7 +161,6 @@ To submit this homework, fork this github repo and edit the README by adding to 
 
 Name | Repo Link | Date Submitted
 --|--|--
-Saiful Islam | https://github.com/saiful-csc/saiful89.github.io | 02/27
 Kauser Ahmed | https://github.com/kauserahmed/kauserahmed.github.io| 02/26 
 Jose Bautista | https://github.com/Josefbautista94/josefbautista94.github.io | 02/27
 Kristel Broward | https://github.com/kristel-spike/kristel-spike.github.io | 02/23
@@ -169,6 +168,7 @@ Jenny Cho | https://www.github.com/tastystar/tastystar.github.io | 02/25
 Carlos Diaz | https://github.com/carlosmdiaz/carlosmdiaz.github.io | 02/25 
 Chris Estevez | https://github.com/CodingWithCDJE/codingwithcdje.github.io | 02/25
 Ali Guddam | https://github.com/sam34512/sam34512.github.io | 02/25
+Saiful Islam | https://github.com/saiful-csc/saiful89.github.io | 02/27
 Omar Jimenez | https://github.com/Omar-Jimenez3/omar-jimenez3.github.io | 02/24
 Abraham Lara | https://github.com/AbrahamLara/abrahamlara.github.io | 02/24
 Karimu Mohammed |https://github.com/KabdulDev/kabduldev.github.io/   | 02/25
