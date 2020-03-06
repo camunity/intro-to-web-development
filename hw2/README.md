@@ -34,7 +34,6 @@ We are building a simple React app that will list your favorite links on the Web
 
 ![App Gif](./HW2(adding).gif)
 
-
 ![App Gif](./HW2(linking).gif)
 
 ![App Gif](./HW2(deleting).gif)
@@ -59,12 +58,12 @@ In this project we're going to use 5 components in addition to our App.js
 The initial project contains the file structure you should use and some default code for some of these components and their styling. Your job will be to fill in the missing logic marked in with the `/* TODO */` comment blocks.
 
 
-### Project TODOs:
+### Project Steps:
 1. Look through the App.js
-2. Look through all of the files in the components folder
+2. Look through all of the files in the components folder for TODOs
 3. Create a simple Table component in the Table.js 
 4. Render your Table component in LinkContainer.js
-5. Create the code for adding a table header and body in TableHeader and TableBody 
+5. Review the code in TableHeader and TableBody 
 6. Change your Table component to render the TableHeader and TableBody components
 7. Pass a prop called linkData to your Table component from the LinkContainer component
 8. Access and show data passed from LinkContainer in TableBody
