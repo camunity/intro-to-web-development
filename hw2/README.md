@@ -32,7 +32,12 @@ We are building a simple React app that will list your favorite links on the Web
 
 ![App Screenshot 1](./HW2-screenshot.png)
 
+![App Gif](./HW2(adding).gif)
+
+
 ![App Gif](./HW2(linking).gif)
+
+![App Gif](./HW2(deleting).gif)
 
 
 ### Component Hierarchy
