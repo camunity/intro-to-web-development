@@ -21,9 +21,9 @@ By the end of this homework, you will have built your second functional React ap
 
 ### Teams
 
-Group 1: Kristel, Ahmed, Jose
+Group 1: Ahmed, Jose, Chris *
 
-Group 2: Jenny, Carlos, Ali
+Group 2: Jenny, Carlos, Kristel
 
 Group 3: Saiful, Omar, Abraham
 
