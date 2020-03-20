@@ -2,7 +2,7 @@
 
 **Due Date:** 3/30/2020 by 12AM
 
-**Submission Type:** Google Form
+**Submission Type:** Team - Pull Request, Individual - Google Form
 
 **Grading:** Letter Grade
 
