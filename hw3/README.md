@@ -19,6 +19,24 @@ This homework is designed to test your ability to work in groups to create a Rea
 ### Specific Learning Outcomes
 By the end of this homework, you will have built your second functional React application. You will render multiple components and create the logic for conditional rendering using state.
 
+### Teams
+
+Group 1: Kristel, Ahmed, Jose
+
+Group 2: Jenny, Carlos, Ali
+
+Group 3: Saiful, Omar, Abraham
+
+Group 4: Michael, Manuel, Lillian
+
+Group 5: Artjola, Kaher, Karimu
+
+Group 6: Jonathan, David, James
+
+Group 7: Jeson, Aboubakari, Nathan
+
+Reach out to your team on Slack and start a message group to stay connected.
+
 ## Set Up Procedures
 0) Check in with your group and designate one person to create the project repository.
 1) That person should go to github and fork the repository at `https://github.com/464squad/design-pad`
@@ -79,7 +97,7 @@ If that all worked congratulations! As a team you've built your second React pro
 
 ## Submissions
 
-1. Your team should push the finished code to Github and submit a Pull Request to the original repo. 
+1. Your team should push the finished code to Github and submit a Pull Request back to the original repo. 
 2. Send me a message on Slack when you're done! 
 3. Each member should also complete this [submission link](https://docs.google.com/forms/d/e/1FAIpQLSdWtkEb7ICdVwQ8D6oEvYXsc5Q1t8U8wk1RkdeyyMGHa-Pnaw/viewform). 
 
@@ -103,30 +121,26 @@ I am available for questions any time on Slack!
 ## Grading 
 Student grades for this homework will be as follows:
 
-- **DesignContainer Component (20 pts)**
+- **DesignContainer Component (15 pts)**
   - Goals:
-    - File was changed correctly
     - Code is well organized and readable
 
-- **PadInput Component (20 pts)**
+- **PadInput Component (15 pts)**
   - Intents:
-    - File was changed correctly
     - Code is well organized and readable
     
-- **DesignBoard Component (20 pts)**
+- **DesignBoard Component (15 pts)**
   - Intents:
-    - File was changed correctly
     - Code is well organized and readable
     
-- **DesignPad Component (20 pts)**
+- **DesignPad Component (15 pts)**
   - Intents:
-    - File was changed correctly
     - Code is well organized and readable
     
-- **Git Workflow (20 pts)**
+- **Git Workflow (40 pts)**
   - Intents:
     - Commit messages are descriptive and readable
-    - Multiple commits and pushes from different team members
+    - Multiple commits and pushes on the project
     
 -	**Extra Credit (10 pts)**
   - Intents:
