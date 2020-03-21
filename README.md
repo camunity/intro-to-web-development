@@ -97,9 +97,9 @@ Lecture | Date | Content | Readings | Assigned | Due
 7 | Week 8 | Conditional Rendering with State & Props | -- | [HW3](./hw3/README.md) | -- 
 8 | Week 9 | Using External Libraries in React (NPM) | -- | -- | --
 9 | Week 10 | Redux | -- | PROJ 1 Out | -- | HW 3 Due
-10 | Week 11 | Navigation, Deploying and Hosting | -- | -- |  | --
+10 | Week 11 | Navigation with React-Router | -- | -- |  | --
 11 | Week 12 | Async-Await & Fetch | -- | -- | PROJ 1 Due
-12 | Week 13 | Node.JS/ Express | -- | Final Project Out | --
+12 | Week 13 | Node.JS/ Express (Serverside & Hosting) | -- | Final Project Out | --
 13 | Week 14 | Cloud Databases | -- | Final Project | --
 14 | Week 15 | Final Project 
 15 | Week 16 | Final Project | -- | -- | Final Project Due
