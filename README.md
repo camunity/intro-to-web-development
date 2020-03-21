@@ -62,21 +62,21 @@ Student grades in this course will be assigned as follows:
     - Add to students' portfolio of work
     - Practice code collaboration
     
-- **Homework 3 (20%)**
+- **Homework 3 (10%)**
   - Intermediate React
   - Intents:
     - Demonstrate ability to develop a full-stack web application
     - Add to students' GitHub portfolios
     - Practice code collaboration
     
-- **Project 1 (20%)**
+- **Project 1 (25%)**
   - React & Redux (front-end application)
   - Intents:
     - Demonstrate ability to develop a dynamic React application
     - Assess student's understanding of project scoping and management
     - Practice code collaboration and documentation
         
--	**Project 2 (20%)**
+-	**Project 2 (25%)**
   - Intents: Advanced React & Redux
     - Demonstrate knowledge of subject matter
     - Practice pitching and presentation aspect of live interviews
