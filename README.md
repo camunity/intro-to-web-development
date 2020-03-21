@@ -10,7 +10,7 @@ Spring, 2020
 
 ## Rationalle
 
-Some of the most exciting technological developments are occuring via web-based frameworks across the full stack. In this course we will discuss frontend and backend programming in Javascript and learn the essentials of modern web development. We will build dynamic web sites utilizing current industry-preferred frameworks and modules including React.JS and Ruby on Rails.
+Some of the most exciting technological developments are occuring via web-based frameworks across the full stack. In this course we will discuss frontend and backend programming in Javascript and learn the essentials of modern web development. We will build dynamic web sites utilizing current industry-preferred frameworks and modules including React.JS.
 
 ## Course Aims and Outcomes 
 ### Aims
@@ -49,35 +49,35 @@ Student grades in this course will be assigned as follows:
     - Practice using GitHub (delivery/submission vehicle)
     
 - **Homework 1 (10%)**
-  - React (Portfolio Site)
+  - Introduction to React & Git
   - Intents:
     - Demonstrate ability to develop React website
     - Add to students' public GitHub portfolios
     
 - **Homework 2 (10%)**
-  - React & Simple Redux (State Managed Components)
+  - React Fundamentals
   - Intents:
     - Demonstrate intermediate knowledge of React
     - Demonstrate modern software architecture using Redux
     - Add to students' portfolio of work
     - Practice code collaboration
     
-- **Midterm Project (20%)**
-  - React & Redux (front-end application)
-  - Intents:
-    - Demonstrate ability to develop a dynamic React application
-    - Assess student's understanding of project scoping and management
-    - Practice code collaboration and documentation
-    
 - **Homework 3 (20%)**
-  - React/Redux & Rails + API (back-end)
+  - Intermediate React
   - Intents:
     - Demonstrate ability to develop a full-stack web application
     - Add to students' GitHub portfolios
     - Practice code collaboration
     
--	**Final Project (20%)**
+- **Project 1 (20%)**
+  - React & Redux (front-end application)
   - Intents:
+    - Demonstrate ability to develop a dynamic React application
+    - Assess student's understanding of project scoping and management
+    - Practice code collaboration and documentation
+        
+-	**Project 2 (20%)**
+  - Intents: Advanced React & Redux
     - Demonstrate knowledge of subject matter
     - Practice pitching and presentation aspect of live interviews
 
@@ -92,15 +92,15 @@ Lecture | Date | Content | Readings | Assigned | Due
 2 | Week 3 | Fundamentals of JavaScript Pt. 2 | -- | [Tic Tac Toe Repo](https://github.com/camunity/ticTacToe)
 3 | Week 4 | Intro to React.JS Pt. 1 | [React](https://reactjs.org) | [HW1](/hw1/README.md) | --
 4 | Week 5 | Intro to React.JS Pt. 2 | -- | -- | HW 1 Due
-5 | Week 6 | Advanced React.JS | -- | [HW2](./hw2/README.md) | 
-6 | Week 7 | Midterm Project | -- | Midterm Out | HW2 Due
-7 | Week 8 | Midterm Project | -- | -- | Midterm Due
-8 | Week 9 | Intro to Express/Node.JS
-9 | Week 10| Deploying and Hosting | -- | HW 3 Out | -- 
-10 | Week 11 | Databases | -- | -- | HW 3 Due | --
-11 | Week 12 | Cloud Technologies | -- | Final Project Out | --
-12 | Week 13 | Final Project
-13 | Week 14 | Final Project
+5 | Week 6 | Fundamentals of React | -- | [HW2](./hw2/README.md) | 
+6 | Week 7 | Fundamentals of React | -- | -- | HW2 Due
+7 | Week 8 | Conditional Rendering with State & Props | -- | [HW3](./hw3/README.md) | -- 
+8 | Week 9 | Using External Libraries in React (NPM) | -- | -- | --
+9 | Week 10 | Redux | -- | PROJ 1 Out | -- | HW 3 Due
+10 | Week 11 | Navigation, Deploying and Hosting | -- | -- |  | --
+11 | Week 12 | Async-Await & Fetch | -- | -- | PROJ 1 Due
+12 | Week 13 | Node.JS/ Express | -- | Final Project Out | --
+13 | Week 14 | Cloud Databases | -- | Final Project | --
 14 | Week 15 | Final Project 
 15 | Week 16 | Final Project | -- | -- | Final Project Due
 -- | TBA | -- | -- | -- | Final Showcase
