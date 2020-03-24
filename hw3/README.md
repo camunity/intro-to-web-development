@@ -88,6 +88,7 @@ Make a new folder called `components` inside of your `src` folder and save these
 8. Use CSS to dynamically change the color of the pads based on the pad input it receives.
 9. Render the Edit Button and use state to toggle it on and off / change its properties using CSS.
 10. Create the logic to only allow design pads to be changed if the edit button's mode is 'on'
+
 (Optional) Work on any additional features for extra credit
 
 Review and test the app and celebrate if you've made it this far 🚀
