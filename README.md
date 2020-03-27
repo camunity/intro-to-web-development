@@ -87,22 +87,22 @@ May change to accommodate guest presenters & student needs.
 
 Lecture | Date | Content | Readings | Assigned | Due
 --|--|--|--|--|--
-0	| Week 1 | Intro | -- | -- | --
-1 | Week 2 | Fundamentals of JavaScript Pt. 1 
-2 | Week 3 | Fundamentals of JavaScript Pt. 2 | -- | [Tic Tac Toe Repo](https://github.com/camunity/ticTacToe)
-3 | Week 4 | Intro to React.JS Pt. 1 | [React](https://reactjs.org) | [HW1](/hw1/README.md) | --
-4 | Week 5 | Intro to React.JS Pt. 2 | -- | -- | HW 1 Due
-5 | Week 6 | Fundamentals of React | -- | [HW2](./hw2/README.md) | 
-6 | Week 7 | Fundamentals of React | -- | -- | HW2 Due
-7 | Week 8 | Conditional Rendering with State & Props | -- | [HW3](./hw3/README.md) | -- 
-8 | Week 9 | Using External Libraries in React (NPM) | -- | -- | --
-9 | Week 10 | Redux | -- | PROJ 1 Out | -- | HW 3 Due
-10 | Week 11 | Navigation with React-Router | -- | -- |  | --
-11 | Week 12 | Async-Await & Fetch | -- | -- | PROJ 1 Due
-12 | Week 13 | Node.JS/ Express (Serverside & Hosting) | -- | Final Project Out | --
-13 | Week 14 | Cloud Databases | -- | Final Project | --
-14 | Week 15 | Final Project 
-15 | Week 16 | Final Project | -- | -- | Final Project Due
+1	| Week 1 | Intro | -- | -- | --
+2 | Week 2 | Fundamentals of JavaScript Pt. 1 
+3 | Week 3 | Fundamentals of JavaScript Pt. 2 | -- | [Tic Tac Toe Repo](https://github.com/camunity/ticTacToe)
+4 | Week 4 | Intro to React.JS Pt. 1 | [React](https://reactjs.org) | [HW1](/hw1/README.md) | --
+5 | Week 5 | Intro to React.JS Pt. 2 | -- | -- | HW 1 Due
+6 | Week 6 | Fundamentals of React | -- | [HW2](./hw2/README.md) | 
+7 | Week 7 | Fundamentals of React | -- | -- | HW2 Due
+8 | Week 8 | Conditional Rendering with State & Props | -- | [HW3](./hw3/README.md) | -- 
+9 | Week 9 | Using External Libraries in React (NPM) | -- | -- | --
+10 | Week 10 | Redux | -- | PROJ 1 Out | -- | HW 3 Due
+11 | Week 11 | Navigation with React-Router | -- | -- |  | --
+12 | Week 12 | Async-Await & Fetch | -- | -- | PROJ 1 Due
+13 | Week 13 | Node.JS/ Express (Serverside & Hosting) | -- | Final Project Out | --
+14 | Week 14 | Cloud Databases | -- | Final Project | --
+15 | Week 15 | Final Project 
+16 | Week 16 | Final Project | -- | -- | Final Project Due
 -- | TBA | -- | -- | -- | Final Showcase
 
 ## Academic Integrity
