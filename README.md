@@ -70,14 +70,14 @@ Student grades in this course will be assigned as follows:
     - Practice code collaboration
     
 - **Project 1 (25%)**
-  - React & Redux (front-end application)
+  - React (front-end application)
   - Intents:
     - Demonstrate ability to develop a dynamic React application
     - Assess student's understanding of project scoping and management
     - Practice code collaboration and documentation
         
 -	**Project 2 (25%)**
-  - Intents: Advanced React & Redux
+  - Intents: Advanced React
     - Demonstrate knowledge of subject matter
     - Practice pitching and presentation aspect of live interviews
 
@@ -96,10 +96,10 @@ Lecture | Date | Content | Readings | Assigned | Due
 7 | Week 7 | Fundamentals of React | -- | -- | HW2 Due
 8 | Week 8 | Conditional Rendering with State & Props | -- | [HW3](./hw3/README.md) | -- 
 9 | Week 9 | Using External Libraries in React (NPM) | -- | -- | --
-10 | Week 10 | Redux | -- | PROJ 1 Out | -- | HW 3 Due
-11 | Week 11 | Navigation with React-Router | -- | -- |  | --
+10 | Week 10 | Navigation with React-Router | -- | PROJ 1 Out | -- | HW 3 Due
+11 | Week 11 | External Modules | -- | -- |  | --
 12 | Week 12 | Async-Await & Fetch | -- | -- | PROJ 1 Due
-13 | Week 13 | Node.JS/ Express (Serverside & Hosting) | -- | Final Project Out | --
+13 | Week 13 | Redux | -- | Final Project Out | --
 14 | Week 14 | Cloud Databases | -- | Final Project | --
 15 | Week 15 | Final Project 
 16 | Week 16 | Final Project | -- | -- | Final Project Due
