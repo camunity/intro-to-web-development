@@ -95,7 +95,7 @@ Lecture | Date | Content | Readings | Assigned | Due
 6 | Week 6 | Fundamentals of React | -- | [HW2](./hw2/README.md) | 
 7 | Week 7 | Fundamentals of React | -- | -- | HW2 Due
 8 | Week 8 | Conditional Rendering with State & Props | -- | [HW3](./hw3/README.md) | -- 
-9 | Week 9 | Using External Libraries in React (NPM) | -- | -- | --
+9 | Week 9 | Styling in React | -- | -- | --
 10 | Week 10 | Navigation with React-Router | -- | PROJ 1 Out | -- | HW 3 Due
 11 | Week 11 | External Modules | -- | -- |  | --
 12 | Week 12 | Async-Await & Fetch | -- | -- | PROJ 1 Due
