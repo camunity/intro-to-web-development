@@ -40,7 +40,7 @@ Your React application should handle at least one* of the following:
 - Data Persistence: Cookies or Storage
 - Serverless or Cloud based programming
 
-* groups must choose at least 2 of the above
+** groups must choose at least 2 of the above
 
 ## Nice to Have
 
