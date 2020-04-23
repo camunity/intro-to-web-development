@@ -49,7 +49,7 @@ Your React application should handle at least one* of the following:
 
 ### Your Next Steps:
 1. Determine whether you'll be working individually or in a team
-2. Everyone must fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdYo4NAxfEloRqdRdBCmgp8u-_pUvIpDGxAuXiJyc0mDtm5yg/viewform)
+2. Everyone must fill out this [form](https://forms.gle/G7WReFuejHSeSjx9A)
 3. Submit a 2-3 paragraph proposal of your app by EOD on Tuesday (4/28)
 4. Create / share a link to a project board on [Trello](https://trello.com/cameronflowers/recommend), Asana, Google Docs or Jira
 5. Submit a digital wireframe or application prototype by EOD Thursday (4/30)
@@ -62,7 +62,7 @@ If that all worked congratulations! You are a React pro <3
 
 
 ## Submissions
-1. Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdYo4NAxfEloRqdRdBCmgp8u-_pUvIpDGxAuXiJyc0mDtm5yg/viewform) ASAP 
+1. Fill out [this form](https://forms.gle/G7WReFuejHSeSjx9A) ASAP 
 2. Send your Project proposal via Slack by EOD on Tuesday (4/28)
 3. Send a wireframe and project board by EOD on Thursday (4/30)
 4. Final projects are due by 5/14/2020 we will have an optional showcase date the following week
