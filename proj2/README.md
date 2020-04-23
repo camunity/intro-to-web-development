@@ -40,6 +40,7 @@ Your React application should handle at least one* of the following:
 - Data Persistence: Cookies or Storage
 - Serverless or Cloud based programming
 
+
 ** groups must choose at least 2 of the above
 
 ## Nice to Have
@@ -52,7 +53,7 @@ Your React application should handle at least one* of the following:
 3. Submit a 2-3 paragraph proposal of your app by EOD on Tuesday (4/28)
 4. Create / share a link to a project board on [Trello](https://trello.com/cameronflowers/recommend), Asana, Google Docs or Jira
 5. Submit a digital wireframe or application prototype by EOD Thursday (4/30)
-6. Create a short report or presentation to accompany your work (up to 1.5 pages or 7 slides) this can be included as your README if you choose.
+6. Create a short report or presentation to accompany your work this can be included as your README if you choose.
 
 
 Commit and push to git often! You should make several commits to `development` and a few commits to `master` after things are working. Make sure you test the app and celebrate if you've made it this far 🚀
