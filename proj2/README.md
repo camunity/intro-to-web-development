@@ -1,6 +1,6 @@
 # CMP 464 – Project 2 (Final)
 
-**Due Date:** 4/20/2020
+**Due Date:** 5/14/2020
 
 **Submission Type:** Individual or Group
 
