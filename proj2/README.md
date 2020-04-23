@@ -22,9 +22,11 @@ Your application must showcase all of the following: 
 - Multiple React Components 
 - Conditional Rendering using State/Props
 - Component Lifecycle Methods
+- Javascript Event Handling
 - Git/Github version control (multiple branches)
 - Routing using React-Router
 - Well documented README including app screenshots
+- Project Management using Trello, Asana, Google Docs or Jira
 
 ## Additional Requirements
 
@@ -38,7 +40,7 @@ Your React application should handle at least one* of the following:
 - Data Persistence: Cookies or Storage
 - Serverless or Cloud based programming
 
-* all groups must choose at least 2 of the above
+* groups must choose at least 2 of the above
 
 ## Nice to Have
 
@@ -46,8 +48,8 @@ Your React application should handle at least one* of the following:
 
 ### Your Next Steps:
 1. Determine whether you'll be working individually or in a team
-2. Everyone must fill out this [form]("")
-2. Create a board on Trello with this [link]("") 
+2. Everyone must fill out this [form]("https://docs.google.com/forms/d/e/1FAIpQLSdYo4NAxfEloRqdRdBCmgp8u-_pUvIpDGxAuXiJyc0mDtm5yg/viewform")
+2. Create / share a link to a project board on [Trello](https://trello.com/cameronflowers/recommend), Asana, Google Docs or Jira
 4. Submit a 2-3 paragraph proposal of your app by EOD on Tuesday (4/28)
 5. Submit a digital wireframe or application prototype by EOD Thursday (4/30)
 6. Create a short report or presentation to accompany your work (up to 1.5 pages or 7 slides) this can be included as your README if you choose.
@@ -59,7 +61,7 @@ If that all worked congratulations! You are a React pro <3
 
 
 ## Submissions
-1. Fill out [this form]("") ASAP 
+1. Fill out [this form]("https://docs.google.com/forms/d/e/1FAIpQLSdYo4NAxfEloRqdRdBCmgp8u-_pUvIpDGxAuXiJyc0mDtm5yg/viewform") ASAP 
 2. Send your Project proposal via Slack by EOD on Tuesday (4/28)
 3. Send your wireframe by EOD on Thursday (4/30)
 4. Final projects are due by 5/14/2020 we will have an optional showcase date the following week
