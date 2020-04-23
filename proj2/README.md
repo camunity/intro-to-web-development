@@ -82,7 +82,7 @@ Student grades for this homework will be based on:
   - Intents:
     - Features listed in the Requirements section above
     
-- **Additional Feature/s (20 pts)**
+- **Additional Features (20 pts)**
   - Intents:
     - Features chosen from the Additional Features section above
     
