@@ -37,13 +37,13 @@ Your React application should handle at least one* of the following:
 - Responsive styling (design adapts to different screen sizes) 
 - Redux state management
 - Serverside programming using Express
+- Data Persistence: Cookies or Storage
 
 ** groups must choose at least 2 of the above
 
 ## Nice to Have
 
 - Site deployed using GH-Pages, Heroku, or another hosting platform 
-- Data Persistence: Cookies or Storage
 - Serverless or Cloud based programming
 
 ### Your Next Steps:
