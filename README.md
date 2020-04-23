@@ -99,10 +99,10 @@ Lecture | Date | Content | Readings | Assigned | Due
 10 | Week 10 | Navigation with React-Router | -- | [PROJ 1](./proj1/README.md) | -- | HW 3 Due
 11 | Week 11 | External Modules | -- | -- |  | --
 12 | Week 12 | Async-Await & Fetch | -- | -- | PROJ 1 Due
-13 | Week 13 | Redux | -- | Final Project Out | --
-14 | Week 14 | Cloud Databases | -- | Final Project | --
-15 | Week 15 | Final Project 
-16 | Week 16 | Final Project | -- | -- | Final Project Due
+13 | Week 13 | Redux | -- | [Final Project](./proj2/README.md) | --
+14 | Week 14 | Cloud Databases | -- | [Final Project](./proj2/README.md) | --
+15 | Week 15 | [Final Project](./proj2/README.md) 
+16 | Week 16 | [Final Project](./proj2/README.md) | -- | -- | [Final Project](./proj2/README.md) Due
 -- | TBA | -- | -- | -- | Final Showcase
 
 ## Academic Integrity
