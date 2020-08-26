@@ -5,7 +5,7 @@ Fall, 2020
 
 **Instructor:** Cam Flowers  
 **Lecture:** Mondays & Wednesdays 7:50-9:30 p.m.  
-**Office Hours:** Tuesdays/Thursdays 5-6 p.m.  
+**Office Hours:** Thursdays 5-6 p.m.  
 **Grading:** Letter Grade
 
 ## Rationalle
