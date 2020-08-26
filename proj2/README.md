@@ -1,6 +1,6 @@
 # CMP 464 – Project 2 (Final)
 
-**Due Date:** 5/14/2020
+**Due Date:** 5/25/2020
 
 **Submission Type:** Individual or Group
 
@@ -39,7 +39,7 @@ Your React application should handle at least one* of the following:
 - Serverside programming using Express
 - Data Persistence: Cookies or Storage
 
-** groups must choose at least 2 of the above
+** groups must choose at least 2 of the above, any other features will be considered extra credit 
 
 ## Nice to Have
 
