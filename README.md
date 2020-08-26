@@ -1,10 +1,10 @@
 # CMP 464 – Web Programming
 
 [Department of Computer Science](http://lehman.edu/academics/mathematics-computer-science/index.php), Lehman College  
-Spring, 2020
+Fall, 2020
 
 **Instructor:** Cam Flowers  
-**Lecture:** Tuesdays & Thursdays 6:00-7:40 p.m.  
+**Lecture:** Tuesdays & Thursdays 7:50-9:00 p.m.  
 **Office Hours:** Tuesdays/Thursdays 5-6 p.m.  
 **Grading:** Letter Grade
 
@@ -42,10 +42,11 @@ In adhering to "real-world" industry norms, this class does not have any require
 
 Student grades in this course will be assigned as follows:
 
-- **Attendance (20%)**
+- **Participation (20%)**
   - Intents:
     - Reinforce readings/lecture content
     - Practice writing code
+    - Learn to collaborate with other engineers
     - Practice using GitHub (delivery/submission vehicle)
     
 - **Homework 1 (10%)**
@@ -89,20 +90,20 @@ Lecture | Date | Content | Readings | Assigned | Due
 --|--|--|--|--|--
 1	| Week 1 | Intro | -- | -- | --
 2 | Week 2 | Fundamentals of JavaScript Pt. 1 
-3 | Week 3 | Fundamentals of JavaScript Pt. 2 | -- | [Tic Tac Toe Repo](https://github.com/camunity/ticTacToe)
-4 | Week 4 | Intro to React.JS Pt. 1 | [React](https://reactjs.org) | [HW1](/hw1/README.md) | --
+3 | Week 3 | Fundamentals of JavaScript Pt. 2 | -- | 
+4 | Week 4 | Intro to React.JS Pt. 1 | [React](https://reactjs.org) | [HW1]() | --
 5 | Week 5 | Intro to React.JS Pt. 2 | -- | -- | HW 1 Due
-6 | Week 6 | Fundamentals of React | -- | [HW2](./hw2/README.md) | 
+6 | Week 6 | Fundamentals of React | -- | [HW2]() | 
 7 | Week 7 | Fundamentals of React | -- | -- | HW2 Due
-8 | Week 8 | Conditional Rendering with State & Props | -- | [HW3](./hw3/README.md) | -- 
+8 | Week 8 | Conditional Rendering with State & Props | -- | [HW3]() | -- 
 9 | Week 9 | Styling in React | -- | -- | --
-10 | Week 10 | Navigation with React-Router | -- | [PROJ 1](./proj1/README.md) | -- | HW 3 Due
+10 | Week 10 | Navigation with React-Router | -- | [PROJ 1]() | -- | HW 3 Due
 11 | Week 11 | External Modules | -- | -- |  | --
 12 | Week 12 | Async-Await & Fetch | -- | -- | PROJ 1 Due
-13 | Week 13 | Redux | -- | [Final Project](./proj2/README.md) | --
-14 | Week 14 | Cloud Databases | -- | [Final Project](./proj2/README.md) | --
-15 | Week 15 | [Final Project](./proj2/README.md) 
-16 | Week 16 | [Final Project](./proj2/README.md) | -- | -- | [Final Project](./proj2/README.md) Due
+13 | Week 13 | Redux | -- | [Final Project]() | --
+14 | Week 14 | Cloud Databases | -- | [Final Project]() | --
+15 | Week 15 | [Final Project]() 
+16 | Week 16 | [Final Project]() | -- | -- | [Final Project]() Due
 -- | TBA | -- | -- | -- | Final Showcase
 
 ## Academic Integrity
