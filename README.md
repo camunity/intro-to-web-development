@@ -91,7 +91,7 @@ Lecture | Date | Content | Readings | Assigned | Due
 1	| Week 1 | Intro | -- | -- | --
 2 | Week 2 | Fundamentals of JavaScript Pt. 1 
 3 | Week 3 | Fundamentals of JavaScript Pt. 2 | -- | 
-4 | Week 4 | Intro to React.JS Pt. 1 | [React](https://reactjs.org) | [HW1]() | --
+4 | Week 4 | Intro to React.JS Pt. 1 | [React](https://reactjs.org) | [HW1](./hw1/README.md) | --
 5 | Week 5 | Intro to React.JS Pt. 2 | -- | -- | HW 1 Due
 6 | Week 6 | Fundamentals of React | -- | [HW2]() | 
 7 | Week 7 | Fundamentals of React | -- | -- | HW2 Due
