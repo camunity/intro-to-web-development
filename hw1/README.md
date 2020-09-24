@@ -162,7 +162,7 @@ To submit this homework, fork this github repo and edit the README by adding to 
 
 Name | Repo Link | Date Submitted
 --|--|--
-(example) Cameron Flowers | https://github.com/camunity/camunity.github.io| 09/21
+Michael Nti | https://github.com/mnti124/mnti124.github.io| 09/24
 
 
 ## If You Get Stuck
