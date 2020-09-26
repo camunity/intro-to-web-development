@@ -1,5 +1,9 @@
 # CMP 464 – HW 1
 
+--------------------------------------------------------------------------------
+Xujuan Chen | https://github.com/xujuanchen2020/xujuanchen.github.io | 9/26/2020
+--------------------------------------------------------------------------------
+
 **Due Date:** 9/26/2020 at Midnight
 
 **Submission Type:** Pull Request to Link
