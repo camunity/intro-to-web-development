@@ -1,4 +1,3 @@
-# Elija Agyapong
 # CMP 464 – HW 1
 
 **Due Date:** 9/26/2020 at Midnight
@@ -163,7 +162,7 @@ To submit this homework, fork this github repo and edit the README by adding to 
 
 Name | Repo Link | Date Submitted
 --|--|--
-(example) Cameron Flowers | https://github.com/camunity/camunity.github.io| 09/21
+(Elija Agyapong) Cameron Flowers | https://github.com/camunity/camunity.github.io| 09/21
 
 
 ## If You Get Stuck
