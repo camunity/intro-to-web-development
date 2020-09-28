@@ -164,7 +164,7 @@ Name | Repo Link | Date Submitted
 
 (example) Cameron Flowers | https://github.com/camunity/camunity.github.io| 09/21
 
-Christy R.|https://github.com/christy-cloud/christy-cloud.github.io|09/25
+Christy R.|https://github.com/christy-cloud/christy-cloud.github.io| 09/25
 
 
 
