@@ -17,7 +17,7 @@ Some of the most exciting technological developments are occuring via web-based 
 As a result of participating in this course, students will be able to explain the fundamental architecture of the web ecosystem, demonstrate proficiency in the fundamental languages of web programming, and create web applications using modern frameworks in preparation for a healthy career in web development. 
 
 ### Specific Learning Outcomes
-By the end of this course, students will be well-versed in the fundamentals of modern web development in JavaScript. They will be introduced to HTML and CSS through in-class project based learning utilizing resources curated by the World Wide Web organization. Building on this foundation, client-side JavaScript frameworks are introduced; students will learn the concepts, syntax, and benefits of contemporary front-end JavaScript frameworks (e.g. React.js and Redux). Students will be able to develop interactive frontend applications by the midterm of the course. The course will then introduce back-end web application concepts such as databases, application servers and cloud based hosting. By the completion of the course, students will be able to develop a “full stack” web application and discuss the benefits of various architectures, design patterns, and elements of production-readyness. Specific concepts and technologies are highlighted in the course schedule below.
+By the end of this course, students will be well-versed in the fundamentals of modern web development in JavaScript. They will be introduced to HTML and CSS through in-class project based learning utilizing resources curated by the World Wide Web organization. Building on this foundation, client-side JavaScript frameworks are introduced; students will learn the concepts, syntax, and benefits of contemporary front-end JavaScript frameworks (e.g. React.js and Redux). Students will be able to develop interactive frontend applications by the midterm of the course. The course will then introduce Back End web application concepts such as databases, application servers and cloud based hosting. By the completion of the course, students will be able to develop a “full stack” web application and discuss the benefits of various architectures, design patterns, and elements of production-readyness. Specific concepts and technologies are highlighted in the course schedule below.
 
 ## Format and Procedures
 This course meets twice a week without an additional lab component. This course is intended to reflect industry norms as much as possible; to that end, project delivery and collaboration are emphasized over homework and written assessments.
@@ -36,7 +36,7 @@ Attendance is a graded component of this class, students are encouraged to atten
 
 ### Course readings
 
-In adhering to "real-world" industry norms, this class does not have any required texts, as all course material can be obtained through various free online resources. However, various readings will be recommended during the course of this class and will likely be helpful to student learning.
+In adhering to "real-world" industry norms, this class does not have any required texts, as all course material can be obtained through multiple free online resources. However, various readings will be recommended during the course of this class and will likely be helpful to student learning.
 
 ### Assignments
 
