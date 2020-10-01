@@ -87,16 +87,14 @@ If that all worked congratulations! You built your first functional React projec
 
 ## Submissions
 
-Upload your finished code to Github and use this [submission link](https://forms.gle/hxqTg6GgxMrrFKUq5) to turn in your assignment. 
+Upload your finished code to Github and use this [submission link](https://forms.gle/ADjrKPmT51mbJGcf8) to turn in your assignment. 
 
 Send me a message on Slack when you're done! 
 
 
 ## If You Get Stuck
 
-Try troubleshooting your code by re-reading these instructions or researching information on the [W3Schools](https://www.w3schools.com) or [MDN](https://developer.mozilla.org/en-US/) before turning to another member of the class! I'll create a #HW2 channel on Slack for more specific questions.
-
-I will be around campus from 5-6 at the TTP office (033) in the Gillet Basement for live help on Tuesday before class. 
+Try troubleshooting your code by re-reading these instructions or researching information on the [W3Schools](https://www.w3schools.com) or [MDN](https://developer.mozilla.org/en-US/) before turning to another member of the class!
 
 For super serious questions or concerns Slack me! 
 
