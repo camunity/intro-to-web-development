@@ -1,6 +1,6 @@
 # CMP 464 – HW 1
 
-**Due Date:** 9/23/2020
+**Due Date:** 9/26/2020 at Midnight
 
 **Submission Type:** Pull Request to Link
 
