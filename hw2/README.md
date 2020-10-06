@@ -87,7 +87,9 @@ If that all worked congratulations! You built your first functional React projec
 
 ## Submissions
 
-Upload your finished code to Github and use this [submission link](https://forms.gle/ADjrKPmT51mbJGcf8) to turn in your assignment. 
+Upload your finished code to Github. [Start a new repository](https://www.github.com/new) on Github and in the terminal folder with your completed hw run the command `git remote set-url origin https://yourgithubrepourl` switching the URL with your new github url for the favlinks assignment.
+
+Once you're done you can use this [submission link](https://forms.gle/ADjrKPmT51mbJGcf8) to turn in your assignment. 
 
 Send me a message on Slack when you're done! 
 
