@@ -95,8 +95,8 @@ Lecture | Date | Content | Readings | Assigned | Due
 5 | Week 5 | Intro to React.JS Pt. 2 | -- | -- | HW 1 Due
 6 | Week 6 | Fundamentals of React | -- | [HW2]() | 
 7 | Week 7 | Fundamentals of React | -- | -- | HW2 Due
-8 | Week 8 | Conditional Rendering with State & Props | -- | [HW3]() | -- 
-9 | Week 9 | Styling in React | -- | -- | --
+8 | Week 8 | Conditional Rendering with State & Props | -- | [HW3](./hw3/README.md) | -- 
+9 | Week 9 | Styling in React | -- | [HW3](./hw3/README.md) | --
 10 | Week 10 | Navigation with React-Router | -- | [PROJ 1]() | -- | HW 3 Due
 11 | Week 11 | External Modules | -- | -- |  | --
 12 | Week 12 | Async-Await & Fetch | -- | -- | PROJ 1 Due
