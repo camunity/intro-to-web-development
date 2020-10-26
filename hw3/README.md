@@ -84,7 +84,7 @@ If that all worked congratulations! As a team you've built your second React pro
 
 1. Your team should push the finished code to Github and submit a Pull Request back to the original repo. 
 2. Send me a message on Slack when you're done! 
-3. Each member should also complete this [submission link](). 
+3. Each member should also complete this [submission link](https://forms.gle/QdccqWhYPEERHsGC7). 
 
 
 ## Resources That May Help
