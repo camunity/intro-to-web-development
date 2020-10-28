@@ -1,6 +1,6 @@
 html {
   -ms-text-size-adjust: 100%;
-
+  /* 2 */
   -webkit-text-size-adjust: 100%;
   /* 2 */ }
 
@@ -8,7 +8,6 @@ html {
  * Remove default margin.
  */
 body {
-  color: #404040;
   margin: 0; }
 
 /* HTML5 display definitions
@@ -179,11 +178,12 @@ h2,
 h3,
 h4,
 h5 {
+  color: #0246a2;
   margin: 1.5rem 0;
   font-weight: 600;
   font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
   line-height: 1.2;
-  color: #0250bc; }
+  color: #404040; }
   h1:not(:first-child),
   h2:not(:first-child),
   h3:not(:first-child),
@@ -197,12 +197,15 @@ h3:not(:first-child) {
   margin-top: 2rem; }
 
 h1 {
+  color: #0246a2;
   font-size: 2.0rem; }
 
 h2 {
+  color: #0246a2;
   font-size: 1.75rem; }
 
 h3 {
+    color: #0246a2;
   font-size: 1.50rem; }
 
 h4 {
@@ -264,7 +267,7 @@ pre {
     line-height: 1.2; }
 
 kbd {
-  background-color: #cdcdcd;
+  background-color: #f7f7f7;
   border: 1px solid #ccc;
   border-radius: 3px;
   box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2), 0 0 0 2px #fff inset;
@@ -289,7 +292,7 @@ kbd {
 hr {
   height: 0;
   border: 0;
-  border-top: 1px solid #dedede; }
+  border-top: 1px solid #333; }
 
 dt {
   font-weight: 600; }
@@ -302,9 +305,7 @@ dd {
   padding: 0 1rem; }
 
 .container, .small-container, .medium-container {
-  flex-wrap: inherit;
-  background-color: #818181;
-  color: #f8f8f8;
+  background-color: #9a9a9a;
   max-width: 1200px;
   padding: 0 1rem;
   margin-left: auto;
@@ -436,7 +437,7 @@ dd {
   margin-bottom: 2rem; }
 
 .alternate-background {
-  background: #404040;
+  background: #fafafa;
   color: #404040; }
 
 .screen-reader-text {
@@ -446,8 +447,7 @@ dd {
   width: 1px;
   overflow: hidden; }
 
-/* Buttons
-  =============== */
+/* Buttons*/
 .button, a.button, button, [type=submit], [type=reset], [type=button] {
   -webkit-appearance: none;
   display: inline-block;
@@ -492,7 +492,7 @@ a.accent-button {
   a.accent-button:hover,
   a.accent-button:focus,
   a.accent-button:active {
-    color: #ffffff;
+    color: #1cb864;
     border: 1px solid #1cb864;
     background: #1cb864; }
 
@@ -604,7 +604,6 @@ textarea.has-error:active {
 /* Tables
   =============== */
 table {
-  color: #404040;
   border-collapse: collapse;
   border-spacing: 0;
   width: 100%;
@@ -617,7 +616,7 @@ tfoot th {
   border-top: 2px solid #dedede; }
 
 td {
-  border-bottom: 5px solid #dedede; }
+  border-bottom: 1px solid #dedede; }
 
 th,
 td {
