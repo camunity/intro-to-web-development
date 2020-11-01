@@ -32,11 +32,11 @@ class EditBtn extends Component {
 
    render() {
        return(
-           <div>
+           
                <button onClick={this.handleClick} className="btn btn-primary">
                     {this.state.isToggleOn ? 'EDIT OFF' : 'EDIT ON'}
                 </button>
-           </div>
+           
        )
    }
 }

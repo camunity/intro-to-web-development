@@ -9,9 +9,13 @@ import { Container, Button } from 'react-bootstrap'
 function App() {
   return (
     <div className="container">  
-          <PadInput />
-          <DesignPad />
-          <EditBtn/>
+          <div className="row justify-content-md-center">
+            <PadInput />
+            <DesignPad />
+            </div>
+            <div className="row justify-content-md-center">
+              <EditBtn/>
+            </div> 
     </div>
   );
 }
