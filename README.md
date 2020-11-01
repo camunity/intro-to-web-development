@@ -93,10 +93,17 @@ Lecture | Date | Content | Readings | Assigned | Due
 3 | Week 3 | Fundamentals of JavaScript Pt. 2 | -- | 
 4 | Week 4 | Intro to React.JS Pt. 1 | [React](https://reactjs.org) | [HW1](./hw1/README.md) | --
 5 | Week 5 | Intro to React.JS Pt. 2 | -- | -- | HW 1 Due
+<<<<<<< HEAD
 6 | Week 6 | Fundamentals of React | -- | [HW2]() | 
 7 | Week 7 | Fundamentals of React | -- | -- | HW2 Due
 8 | Week 8 | Conditional Rendering with State & Props | -- | [HW3]() | -- 
 9 | Week 9 | Styling in React | -- | -- | --
+=======
+6 | Week 6 | Fundamentals of React | -- | [HW2](./hw2/README.md) | 
+7 | Week 7 | Fundamentals of React | -- | -- | HW2 Due
+8 | Week 8 | Conditional Rendering with State & Props | -- | [HW3](./hw3/README.md) | -- 
+9 | Week 9 | Styling in React | -- | [HW3](./hw3/README.md) | --
+>>>>>>> 9364f47df2c9514f0d1b40f7393c22b1a454eb0a
 10 | Week 10 | Navigation with React-Router | -- | [PROJ 1]() | -- | HW 3 Due
 11 | Week 11 | External Modules | -- | -- |  | --
 12 | Week 12 | Async-Await & Fetch | -- | -- | PROJ 1 Due

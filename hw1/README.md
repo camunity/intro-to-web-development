@@ -163,7 +163,10 @@ To submit this homework, fork this github repo and edit the README by adding to 
 Name | Repo Link | Date Submitted
 --|--|--
 (example) Cameron Flowers | https://github.com/camunity/camunity.github.io| 09/21
+<<<<<<< HEAD
 Jordan Roman | https://github.com/RomanJordan/react-hw1 | 09/23
+=======
+>>>>>>> 9364f47df2c9514f0d1b40f7393c22b1a454eb0a
 
 
 ## If You Get Stuck
