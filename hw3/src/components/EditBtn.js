@@ -33,7 +33,7 @@ class EditBtn extends Component {
    render() {
        return(
            
-               <button onClick={this.handleClick} className="btn btn-primary">
+               <button onClick={this.handleClick} className="btn btn-secondary btn-lg btn-block">
                     {this.state.isToggleOn ? 'EDIT OFF' : 'EDIT ON'}
                 </button>
            
