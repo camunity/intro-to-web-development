@@ -14,18 +14,15 @@ class DesignPad extends Component {
     }
 
 
+    // Not necessary
     onDragOver = (ev, name) => {
-        // console.log("on drag on:",name)
         ev.preventDefault();
     }
 
     onDrop = (ev, name) => {
         var colid = ev.dataTransfer.getData("id");
-        // console.log("USING COLOR: "+colid)
-        // console.log("on drop on: "+name)
         let element = document.getElementById(name)
         ReactDOM.findDOMNode(element).style.backgroundColor = colid
-        // console.log(name)
         ev.preventDefault();
     }
 
@@ -38,7 +35,6 @@ class DesignPad extends Component {
                 style={{backgroundColor: 'white'}} 
                 onDragOver={(ev)=>this.onDragOver(ev, t.name)} 
                 onDrop={(e)=>this.onDrop(e, t.name)}>
-                
                 </div>
             );
         });

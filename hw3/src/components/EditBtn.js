@@ -19,14 +19,12 @@ class EditBtn extends Component {
             console.log(this.state.isToggleOn+ "false")
 
             for (var i = 0; i < elements.length; i++) {
-                elements[i].draggable = false;
-                elements[i].style.opacity = 0.5;
+                elements[i].draggable = false; elements[i].style.opacity = 0.5;
             }
         }
         else {
             for (var i = 0; i < elements.length; i++) {
-                elements[i].draggable = true;
-                elements[i].style.opacity = 1;
+                elements[i].draggable = true; elements[i].style.opacity = 1;
             }
         }
     }
@@ -43,4 +41,5 @@ class EditBtn extends Component {
    }
 }
 // A lot of this code taken from official react tutorial
+// https://reactjs.org/docs/handling-events.html
 export default EditBtn
