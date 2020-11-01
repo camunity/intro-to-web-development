@@ -1,6 +1,5 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Component } from 'react';
 import PadInput from './components/PadInput';
 import DesignPad from './components/DesignPad'
 import EditBtn from './components/EditBtn'
@@ -12,9 +11,7 @@ function App() {
     <div className="container">  
           <PadInput />
           <DesignPad />
-          <div>
-            <EditBtn/>
-          </div>
+          <EditBtn/>
     </div>
   );
 }

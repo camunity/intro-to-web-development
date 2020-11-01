@@ -11,11 +11,8 @@ class PadInput extends Component {
         ]
     }
     onDragStart = (ev, id) => {
-        // console.log('dragstart:',id);
         ev.dataTransfer.setData("id", id);
     }
-
-    
 
     render() {
         var btns = []
@@ -32,14 +29,11 @@ class PadInput extends Component {
                 </div>
             );
         });
-        
 
         return(
             <div className="pad-input-container" id="input">
-            {btns}
-            
-            </div>
-            
+            {btns}     
+            </div>           
         )
     }
 }
