@@ -163,7 +163,7 @@ To submit this homework, fork this github repo and edit the README by adding to 
 Name | Repo Link | Date Submitted
 --|--|--
 (example) Cameron Flowers | https://github.com/camunity/camunity.github.io| 09/21
-Jonathan Guzman | https://github.com/jonguzman5/intro-to-web-development.git | 09/23
+Jonathan Guzman | https://github.com/jonguzman5/jonguzman5.github.io | 09/23
 
 
 ## If You Get Stuck
