@@ -97,9 +97,9 @@ Lecture | Date | Content | Readings | Assigned | Due
 7 | Week 7 | Fundamentals of React | -- | -- | HW2 Due
 8 | Week 8 | Conditional Rendering with State & Props | -- | [HW3](./hw3/README.md) | -- 
 9 | Week 9 | Styling in React | -- | [HW3](./hw3/README.md) | --
-10 | Week 10 | Navigation with React-Router | -- | [PROJ 1]() | -- | HW 3 Due
+10 | Week 10 | Navigation with React-Router | -- | -- | -- | HW 3 Due
 11 | Week 11 | External Modules | -- | -- |  | --
-12 | Week 12 | Async-Await & Fetch | -- | -- | PROJ 1 Due
+12 | Week 12 | Async-Await & Fetch | -- | -- | [PROJ 1](./proj1/README.md)
 13 | Week 13 | Redux | -- | [Final Project]() | --
 14 | Week 14 | Cloud Databases | -- | [Final Project]() | --
 15 | Week 15 | [Final Project]() 
