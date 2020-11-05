@@ -1,4 +1,4 @@
-# CMP 464 – HW 1
+# CMP 464 – HW 1 - francisco cuesta
 
 **Due Date:** 9/26/2020 at Midnight
 
@@ -161,7 +161,7 @@ If that all worked congratulations! You built your first React project <3
 To submit this homework, fork this github repo and edit the README by adding to the table below with your name, a link to your finished repo, and the date you submitted by the start of class on Wednesday. Send me a pull request when you're done! After you're finished make sure you go over the [React Tutorial](https://reactjs.org/tutorial/tutorial.html) before our next class!
 
 Name | Repo Link | Date Submitted
---|--|--
+francisco cuesta | https://github.com/cuestafrancisco/intro-to-web-development/tree/master/hw1.  |  9|26|2020
 (example) Cameron Flowers | https://github.com/camunity/camunity.github.io| 09/21
 
 
