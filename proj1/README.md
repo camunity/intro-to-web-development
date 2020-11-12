@@ -1,5 +1,7 @@
 # CMP 464 – Project 1
 
+**Due:** 11/30/2020
+
 **Submission Type:** Individual
 
 **Grading:** Letter Grade
