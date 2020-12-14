@@ -130,3 +130,9 @@ We understand that our members represent a rich variety of backgrounds and persp
 *	value each other's opinions and communicate in a respectful manner
 *	keep confidential discussions that the community has of a personal (or professional) nature 
 *	use this opportunity together to discuss ways in which we can create an inclusive environment in this course and across the CUNY community
+
+
+hi professor. my name is Aboulaye Tchakoura
+ Here is a link of my portfolio
+ https://github.com/abdel1413/myportfolio.git
+ thanks
