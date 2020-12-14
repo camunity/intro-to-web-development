@@ -134,5 +134,6 @@ We understand that our members represent a rich variety of backgrounds and persp
 
 hi professor. my name is Aboulaye Tchakoura
  Here is a link of my portfolio
- https://github.com/abdel1413/myportfolio.git
+https://github.com/abdel1413/myportfolio.git
+ here is: live url: https://abdel1413.github.io/myportfolio/
  thanks
