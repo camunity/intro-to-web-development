@@ -1,14 +1,13 @@
 # CMP 464 – Web Programming
 
 [Department of Computer Science](http://lehman.edu/academics/mathematics-computer-science/index.php), Lehman College  
-Fall, 2020
+Spring, 2021
 
-**Instructor:** Cam Flowers  
+**Instructor:** Cameron Flowers  
 **Lecture:** Mondays & Wednesdays 7:50-9:30 p.m.  
-**Office Hours:** Thursdays 5-6 p.m.  
 **Grading:** Letter Grade
 
-## Rationalle
+## Rationale
 
 Some of the most exciting technological developments are occuring via web-based frameworks across the full stack. In this course we will discuss frontend and backend programming in Javascript and learn the essentials of modern web development. We will build dynamic web sites utilizing current industry-preferred frameworks and modules including React.JS.
 
@@ -30,9 +29,9 @@ No web development experience is required; this course assumes that students do 
 ## Course Requirements
 Tasks and assignments are intended to align with the learning outcomes specified above.
 
-### Class attendance and participation policy
+### Class attendance
 
-Attendance is a graded component of this class, students are encouraged to attend all lectures to fully benefit from the delivered material and peer discussion. 
+Attendance is not a graded component of this class, however students are encouraged to attend all lectures to fully benefit from the delivered material and peer discussion. 
 
 ### Course readings
 
