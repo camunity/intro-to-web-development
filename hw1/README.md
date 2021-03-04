@@ -54,7 +54,7 @@ Since we're importing an existing repository and because create-react-app alread
 
 ### Step 3: Connecting to your remote repository
 At this point you should see a screen like this:
-![GitHub Commit Steps](https://curriculum-content.s3.amazonaws.com/web-development/enough-git-for-learn-co/github_quick_setup.png)
+![GitHub Commit Steps](./git-setup.png)
 
 If you don't see a screen like this, delete this repository and make sure you followed the last step correctly and didn't click any of the extra buttons or features.
 
