@@ -225,3 +225,7 @@ We understand that our members represent a rich variety of backgrounds and persp
 *	value each other's opinions and communicate in a respectful manner
 *	keep confidential discussions that the community has of a personal (or professional) nature 
 *	use this opportunity together to discuss ways in which we can create an inclusive environment in this course and across the CUNY community
+
+ Here is my homework number 1:
+Aboulaye Tchakoura.  https://github.com/abdel1413/myapp.github.io.git 
+
