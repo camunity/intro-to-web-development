@@ -1,6 +1,6 @@
 # CMP 464 – HW 3
 
-**Due Date:** 05/22/2020 
+**Due Date:** 05/01/2020 
 
 **Submission Type:** Team - Pull Request, Individual - Google Form
 
