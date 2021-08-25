@@ -1,7 +1,7 @@
 # CMP 464 – Web Programming
 
 [Department of Computer Science](http://lehman.edu/academics/mathematics-computer-science/index.php), Lehman College  
-Spring, 2021
+Fall, 2021
 
 **Instructor:** Cameron Flowers  
 **Lecture:** Mondays & Wednesdays 7:50-9:30 p.m.  
@@ -48,13 +48,13 @@ Student grades in this course will be assigned as follows:
     - Learn to collaborate with other engineers
     - Practice using GitHub (delivery/submission vehicle)
     
-- **Homework 1 (10%)**
+- **Check In 1 (10%)**
   - Introduction to React & Git
   - Intents:
     - Demonstrate ability to develop React website
     - Add to students' public GitHub portfolios
     
-- **Homework 2 (10%)**
+- **Check In 2 (10%)**
   - React Fundamentals
   - Intents:
     - Demonstrate intermediate knowledge of React
@@ -62,7 +62,7 @@ Student grades in this course will be assigned as follows:
     - Add to students' portfolio of work
     - Practice code collaboration
     
-- **Homework 3 (10%)**
+- **Check In 3 (10%)**
   - Intermediate React
   - Intents:
     - Demonstrate ability to develop a full-stack web application
