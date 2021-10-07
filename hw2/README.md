@@ -1,6 +1,6 @@
 # CMP 464 – HW 2
 
-**Due Date:** 10/11/2021 by 11:59pm
+**Due Date:** 10/13/2021 by 11:59pm
 
 **Submission Type:** Google Form
 
