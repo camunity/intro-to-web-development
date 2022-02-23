@@ -29,7 +29,7 @@ By the end of this homework, you will be well-versed in the fundamentals of star
    - 1B) In the terminal run the command `npm --version` to ensure the package was installed correctly
    - 2A) If you haven't already make sure you download the latest version of [git](https://git-scm.com/downloads)
    - 2B) Run the command `git --version` to ensure the package was installed correctly
-   - 3. Make sure you set up your github account to work with SSH by following the [video here](https://www.youtube.com/watch?v=gwyTeowFWeQ)
+   - 2C) Make sure you set up your github account to work with SSH by following the [video here](https://www.youtube.com/watch?v=gwyTeowFWeQ)
 1. Follow the create-react-app installation [instructions](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
 2. In the terminal run the create-react-app command with this project name: yourgithubname.github.io
    - for example in my terminal I'd run: `npx create-react-app camunity.github.io` because my username is `camunity`
