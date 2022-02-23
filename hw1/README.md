@@ -32,7 +32,7 @@ By the end of this homework, you will be well-versed in the fundamentals of star
    - 2C) Make sure you set up your github account to work with SSH by following the [video here](https://www.youtube.com/watch?v=gwyTeowFWeQ)
 1. Follow the create-react-app installation [instructions](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
 2. In the terminal run the create-react-app command with this project name: yourgithubname.github.io
-   - for example in my terminal I'd run: `npx create-react-app camunity.github.io` because my username is `camunity`
+   - for example in my terminal I'd run: `npx create-react-app camunity.github.io` because my username is `camunity` If you already have a `.github.io` project on Github feel free to name this project something else.
 3. cd into your new folder after it's finished installing
 4. npm start
 
@@ -162,7 +162,9 @@ If that all worked congratulations! You built your first React project <3
 
 ## Submissions
 
-To submit this homework, fill out this [form](https://forms.gle/ZzEXgcK1pRQKLQmb9). Send me a slack message when you're done! After you're finished make sure you go over the [React Tutorial](https://reactjs.org/tutorial/tutorial.html) before our next class!
+After you finish the project, go to your terminal and run the command `git shortlog` and take a screenshot of the output.
+
+To submit this homework, fill out this [form](https://forms.gle/ZzEXgcK1pRQKLQmb9). You'll need to attach that screenshot! Drop a note in the #web-development channel when you're done, and offer to help out anyone else in the crew! After you're finished you can go over the [React Tutorial](https://reactjs.org/tutorial/tutorial.html) or the React Docs Main Concepts sections before our next class!
 
 <!-- Name | Repo Link | Date Submitted
 --|--|--
