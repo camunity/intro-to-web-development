@@ -27,7 +27,7 @@ You can work on this homework in groups of up to 3 people. Feel free to use the 
 ## Setting Up a Group Repo on Github
 
 0. Check in with your group and designate one person to create the project repository.
-1. That person should go to github and fork the repository at `https://github.com/464squad/design-pad`
+1. That person should go to github and create a new repository
 2. In the new forked repo click on Settings > Manage Access
 3. Click the green button that says Invite a Collaborator
 4. Input your teammates' github usernames to add them to the team repo
@@ -47,6 +47,14 @@ You will be building a very popular game that has taken the internet by storm th
 The game is very simple. The user gets 6 tries to guess a 5 letter word that is pre-defined. The game requires the user to click a keyboard and submit their choice, it changes color to show if they guessed any correct letters and if that letter is in the correct place. The game continues until the user guesses the right word or runs out of turns.
 
 [Here is a video explanation of the game and hw](https://us02web.zoom.us/rec/share/LwZzN6me5pOg07ptL6xZ_w4yiVHLqvgVuzdTYGtWSL_WwptCK7xJUAYCmJNi9ec7.KAEJP-ikTe8qbGpi)
+
+### Requirements
+
+Your app should at minimum achieve the following:
+
+- Process user input from clicks on a keypad
+- Visualize that input in another component to view user submissions
+- Change the color of the letters in each user submission to green, yellow, and grey based on if they are in the correct answer
 
 ### How Should You Approach This Build?
 
@@ -84,7 +92,7 @@ If that all worked congratulations! As a team you've built your second React pro
 
 1. Everyone should push the finished code to Github and send a link. If you're in a group only one repo needs to be submitted.
 2. Send me a message on Slack when you're done!
-3. Each student should also complete this [submission link](https://forms.gle/yfiCHKEhZDmNyxN98).
+3. Each student should also complete this [submission link](https://forms.gle/fn88dvx48q1CDavX9).
 
 ## Resources That May Help
 
@@ -102,18 +110,19 @@ I am available for questions any time on Slack!
 
 Student grades for this homework will be as follows:
 
-- **Git Workflow (70 pts)**
+- **Git Workflow (60 pts)**
 
   - Intents:
 
     - Commit messages are descriptive and readable
     - Multiple commits and pushes on the project
 
-- **Code Organization / React Fundamentals (30 pts)**
+- **Code Organization / React Fundamentals (40 pts)**
 
   - Intents:
     - Code is organized in proper folders
     - Application uses React concepts like State, Props, and Components properly
+    - Minimum project requirements met
 
 - **Extra Credit (10 pts)**
 - Intents:
