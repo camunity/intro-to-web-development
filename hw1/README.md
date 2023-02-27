@@ -1,6 +1,6 @@
-# CMP 464 – HW 1
+# CMP 464 – HW 3
 
-**Due Date:** 3/01/2021 by 11:59 PM EST
+**Due Date:** 3/01/2023 by 11:59 PM EST
 
 **Submission Type:** Google Form
 
@@ -164,9 +164,9 @@ If that all worked congratulations! You built your first React project <3
 
 After you finish the project, go to your terminal and run the command `git shortlog` and take a screenshot of the output.
 
-To submit this homework, fill out this [form](https://forms.gle/ZzEXgcK1pRQKLQmb9). You'll need to attach that screenshot! I'm grading you on the number of commits and the commit messages so make sure they match up with what it says above (but it's okay if you have more commits or any extra ones too).
+To submit this homework, send me a Slack message with your github repository link. I'm grading you on the number of commits and the commit messages so make sure they match up with what it says above (but it's okay if you have more commits or any extra ones too).
 
-Drop a note in the #web-development channel when you're done, and offer to help out anyone else in the crew! After you're finished you can go over the [React Tutorial](https://reactjs.org/tutorial/tutorial.html) or the React Docs Main Concepts sections before our next class!
+Drop a note in the #general channel when you're done, and offer to help out anyone else in the crew! After you're finished you can go over the [React Tutorial](https://reactjs.org/tutorial/tutorial.html) or the React Docs Main Concepts sections before our next class!
 
 <!-- Name | Repo Link | Date Submitted
 --|--|--
